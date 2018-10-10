@@ -1848,4 +1848,9 @@ form label {
 .cognito{
 background:url(../images/loader.gif)center no-repeat #fff;
 }
+
+.c-forms-heading h2{
+  font-family: "Sacramento", Arial, serif;
+}
+
 /*# sourceMappingURL=style.css.map */
