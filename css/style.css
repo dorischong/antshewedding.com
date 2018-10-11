@@ -1842,5 +1842,8 @@ form label {
 
 .c-forms-heading h2 {font-family: "Sacramento", Arial, serif !important;font-size:2.75em !important;}
 
+.cognito .c-label label, .cognito .c-label {
+font-family: "Work Sans", Arial, sans-serif !important;
+}
 
 /*# sourceMappingURL=style.css.map */
