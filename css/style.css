@@ -1840,17 +1840,7 @@ form label {
   opacity: 0;
 }
 
-.c-forms-heading {
-  color:green;
-  font-size:15px;
-  font-family: sans-serif;
-}
-.cognito{
-background:url(../images/loader.gif)center no-repeat #fff;
-}
+.c-forms-heading h2 {font-family: "Sacramento", Arial, serif !important;font-size:2.75em !important;}
 
-.c-forms-heading h2{
-  font-family: "Sacramento", Arial, serif;
-}
 
 /*# sourceMappingURL=style.css.map */
