@@ -1840,9 +1840,17 @@ form label {
   opacity: 0;
 }
 
+<<<<<<< HEAD
 
 .cognito.c-forms-form.c-forms-form-title h2{
   font-family: "Sacramento", Arial, serif;
   color:blue;font-size:2.75em;
+=======
+.c-forms-heading h2 {font-family: "Sacramento", Arial, serif !important;font-size:2.75em !important;}
+
+.cognito .c-label label, .cognito .c-label {
+font-family: "Work Sans", Arial, sans-serif !important;
+>>>>>>> 9daa7ed90fd091e07d3dd7fb6ea258255385a4f9
 }
+
 /*# sourceMappingURL=style.css.map */
