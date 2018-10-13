@@ -1842,14 +1842,6 @@ form label {
   opacity: 0;
 }
 
-#cognito {
-overflow:hidden !important;
-}
-
-.c-forms-heading{
-  overflow: hidden!important;
-  min-height: 200px!important;
-}
 
 
 
