@@ -1848,7 +1848,9 @@ overflow:hidden !important;
 
 .c-forms-heading{
   overflow: hidden!important;
+  min-height: 200px!important;
 }
+
 
 
 /*# sourceMappingURL=style.css.map */
