@@ -23,7 +23,6 @@ body {
   position: relative;
   overflow-x: hidden;
   width: 100%;
-  height: 100%;
   min-height: 400px !important;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
@@ -1847,6 +1846,6 @@ form label {
 overflow:hidden !important;
 }
 
-.c-forms-heading h2 {font-family: "Sacramento", Arial, serif !important;font-size:2.75em !important;}
+.c-forms-heading h2 {font-family: "Sacramento", Arial, serif !important;font-size:2.75em !important; overflow: hidden!important;}
 
 /*# sourceMappingURL=style.css.map */
