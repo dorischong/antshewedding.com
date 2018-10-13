@@ -1195,6 +1195,11 @@ form label {
   line-height: 1.5;
   color: #828282;
 }
+
+.fh5co-header {
+  max-width: 100%
+}
+
 .fh5co-heading span {
   text-transform: uppercase;
   font-size: 13px;
