@@ -320,6 +320,16 @@ h1, h2, h3, h4, h5, h6, figure {
     height: 600px;
   }
 }
+
+/*remember this is added!!!*/
+/*added this*/
+
+
+.Header-picture img {
+  width: 100%;
+  display: block;
+}
+
 .fh5co-cover .display-t,
 .fh5co-cover .display-tc {
   height: 900px;
@@ -1196,9 +1206,6 @@ form label {
   color: #828282;
 }
 
-.fh5co-header {
-  max-width: 100%
-}
 
 .fh5co-heading span {
   text-transform: uppercase;
