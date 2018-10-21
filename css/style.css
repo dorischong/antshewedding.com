@@ -1661,9 +1661,10 @@ form label {
 
 .btn {
   margin-right: 4px;
-  margin-bottom: 4px;
-  font-family: "Work Sans", Arial, sans-serif;
-  font-size: 16px;
+  margin-top: 5px;
+  padding-top: 10px;
+  font-family: "Sacramento", Arial, serif;
+  font-size: 40px;
   font-weight: 400;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
@@ -1672,8 +1673,38 @@ form label {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
-  padding: 8px 20px;
+  padding: 8px 80px;
+  position: relative;
+
 }
+.btn2 {
+  margin-right: 4px;
+  margin-top: 5px;
+  padding-top: 10px;
+  font-family: "Sacramento", Arial, serif;
+  background-color: #F14E95; opacity:0.8;
+  color:white;
+  font-size: 40px;
+  font-weight: 400;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  border-radius: 30px;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  padding: 8px 80px;
+  position: relative;
+
+}
+
+
+.gallerybtn{
+  margin:0px;
+  padding-top: 0px;
+  background-color: pink;
+}
+
 .btn.btn-md {
   padding: 8px 20px !important;
 }
