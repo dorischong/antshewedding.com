@@ -1663,7 +1663,7 @@ form label {
   margin-right: 4px;
   margin-top: 5px;
   padding-top: 10px;
-  font-family: "Sacramento", Arial, serif;
+  font-family: "Work Sans", Arial, sans-serif;
   font-size: 20px;
   font-weight: 400;
   -webkit-border-radius: 30px;
@@ -1675,7 +1675,6 @@ form label {
   transition: 0.5s;
   padding: 8px 80px;
   position: relative;
-
 }
 
 
